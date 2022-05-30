@@ -1,1 +1,1 @@
-prints
+display content of file
